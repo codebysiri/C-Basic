@@ -1,2 +1,5 @@
-# C-Basic
-C 기초 | 모각코 아이 캔 C 
+Day02 : [printf](https://cafe.naver.com/codeuniv/10781)
+
+Day03 : [자료형](https://cafe.naver.com/codeuniv/11122)
+
+Day04 : [연산자](https://cafe.naver.com/codeuniv/11293)
