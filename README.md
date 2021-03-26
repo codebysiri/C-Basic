@@ -9,3 +9,5 @@ Day05 : [scanf](https://cafe.naver.com/codeuniv/11451)
 Day06 : [조건문](https://cafe.naver.com/codeuniv/11633)
 
 Day07 : [반복문](https://cafe.naver.com/codeuniv/11742)
+
+Day08 : [배열](https://cafe.naver.com/codeuniv/11864)
