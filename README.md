@@ -20,4 +20,6 @@ Day11 : [C언어의 함수](https://cafe.naver.com/codeuniv/12347)
 
 Day12 : [포인터와 함수](https://cafe.naver.com/codeuniv/12469)
 
-Day13 : [복습]
+Day13 : [복습] 포인터와 함수 
+
+Day14 : [복습] 반복문과 조건문
