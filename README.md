@@ -23,3 +23,5 @@ Day12 : [포인터와 함수](https://cafe.naver.com/codeuniv/12469)
 Day13 : [복습] 포인터와 함수 
 
 Day14 : [복습] 반복문과 조건문
+
+Day15 : [복습] 함수와 조건문
